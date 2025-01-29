@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=DeepSeek Desktop Client
+Comment=DeepSeek Desktop Client
+Exec=/home/user/deepseekdesktop/dist/deepseekdesktop-linux-x64/deepseekdesktop
+Icon=/home/user/deepseekdesktop/assets/icon.png
+Type=Application
+Categories=Network;Chat;
